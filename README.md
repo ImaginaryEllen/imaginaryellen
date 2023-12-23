@@ -1,6 +1,6 @@
 <h3 align="center">Hello 👋 I`m Elena!</h3>
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="300"/>
 </div>
 
 ___
